@@ -7,5 +7,5 @@ app.get("/", function(req, res) {
 });
 
 app.listen(port, function() {
-  console.log("port is listening to port no 3090")));
+  console.log("port is listening to port no 3090");
 });
