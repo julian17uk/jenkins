@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo rm -rf /app
+# sudo rm -rf /app
