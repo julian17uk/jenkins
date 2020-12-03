@@ -4,4 +4,4 @@ echo $PATH
 node --version
 npm --version
 npm ls express
-node index.js
+node app/index.js
