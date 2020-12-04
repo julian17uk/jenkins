@@ -7,7 +7,7 @@ app.get("/", function(req, res) {
 });
 
 app.listen(port, function() {
-  console.log("port is listening to port no 3080"))));
+  console.log("port is listening to port no 3080");
 });
 
 function addTwoNumbers(x, y) {
