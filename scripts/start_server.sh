@@ -12,4 +12,4 @@ nvm install node
 npm install express
 npm --version
 npm ls express
-node /home/ec2-user/app/index.js
+nohup node /home/ec2-user/app/index.js > /dev/null 2>&1 &
