@@ -12,4 +12,4 @@ nvm install node
 npm install express
 npm --version
 npm ls express
-node app/index.js
+node /var/www/html/index.js
